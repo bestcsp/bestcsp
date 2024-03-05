@@ -14,7 +14,7 @@ Passionate about learning new technologies and building projects...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## Tech
+## <p align='center'>Tech</p>
 - Node.js
 - Express.js
 - React
@@ -28,8 +28,7 @@ Passionate about learning new technologies and building projects...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## Github Stats
-
+## <p align='center'>Github Stats</p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bestcsp)](https://git.io/streak-stats)
 
 
